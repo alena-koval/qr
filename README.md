@@ -1,0 +1,2 @@
+# qr
+Add QR page
